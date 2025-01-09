@@ -9,11 +9,16 @@ Libraries: Pandas, NumPy, Scikit-learn, MatplotLib
 ### Approach:
 
 Text preprocessing
+
 Feature extraction using TF-IDF 
 ### Model training using the following classifiers:
 Logistic Regression: A linear classifier for binary classification.
+
 Stochastic Gradient Descent (SGD): A fast and efficient approach for training large-scale models.
+
 LightGBM: A gradient boosting model that is faster and more efficient on large datasets.
+
 Evaluation using metrics like accuracy
+
 ### Results:
 Performance comparison of Logistic Regression, SGD, and LightGBM models, with accuracy and other evaluation metrics.
